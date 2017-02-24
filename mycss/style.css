@@ -1,0 +1,157 @@
+* {
+	margin:0px;
+	padding:0px;		
+}
+
+header {
+	border:none;
+	height:200px;
+	position:relative;
+}
+footer {
+
+	background:#40a0a0;
+	height:200px;	
+}
+footer ul {
+	margin-top:10px;
+	
+}
+footer ul li{
+	list-style:none;
+}
+footer ul li a {
+	
+	color:#fff;
+}
+footer span {
+	color:#fff;
+}
+p {
+	text-align:justify;
+}
+h1, h2, h3{
+	font-family:Verdana;
+	font-weight:bold;
+	font-size:18px;
+}
+.hoverAgendas {
+	-moz-cursor:pointer;
+	-webkit-cursor:pointer;
+	cursor:pointer; 	
+}
+.main {
+	margin-top:20px;
+}
+#logo {
+
+	background:#888;
+	height:200px;
+	background: url('../img/escolar_logo.png');
+	background-size:100%;
+
+}
+#banner{
+	background:#777;
+	height:200px;
+	background: url('../img/banner.png');
+	background-size:100%;
+}
+.post1 {
+	background: #fff;
+	height:400px;
+}
+#postImg {
+	width:30%;
+	margin:10px;
+	float:left;
+	-moz-cursor:pointer;
+	-webkit-cursor:pointer;
+	cursor:pointer; 
+}
+#post2Img {
+	width:30%;
+	margin:10px;
+	float:left;
+	-moz-cursor:pointer;
+	-webkit-cursor:pointer;
+	cursor:pointer; 
+}
+.post2 {
+	background: #fff;
+	height:400px;
+}
+.agenda {
+	background:#fff;
+	height:400px;
+}
+
+.postagens {
+	background:#fff;
+	height:400px;
+}
+.paginacao{
+	background:#fff;
+	height:50px;
+	text-align:center;
+}
+.visitas{
+	background:#fff;
+	height:50px;
+	text-align:center;
+
+}
+.visitas span {
+	color:#099;
+	font-weight:bold;
+
+}
+.mynav {
+	margin-bottom:0px;
+	margin-top:5px;
+	border:none;	
+}
+.mypagination {
+	margin-top:5px;
+}
+.imgPost{
+	width:64px;
+
+}
+.tituloPostagem {
+	margin-bottom:30px;
+	color:#099;
+}
+.imgSociais {
+	width:40px;
+}
+.redeSociais {
+	display:flex;
+	margin-left:40%;
+	margin-top:-5%;
+
+}
+.redeSociais li img {
+	margin-left:10px;
+	-moz-cursor:pointer;
+	-webkit-cursor:pointer;
+	cursor:pointer; 
+}
+.galeryPhotos {
+	margin-top:40px;
+	margin-bottom:40px;
+}
+.segundaFilaPhotos {
+	margin-top:30px;
+}
+.img-size {
+	height:200px;
+	width:300px;
+}
+.tituloGalery {
+	font-weight:bold;
+	font-family:Verdana;
+	font-size:25px;
+	margin-bottom:20px;
+	color:#099;
+}
